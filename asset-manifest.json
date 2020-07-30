@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/fb-dd/static/css/main.1d36f2ef.chunk.css",
-    "main.js": "/fb-dd/static/js/main.9ffe91d3.chunk.js",
-    "main.js.map": "/fb-dd/static/js/main.9ffe91d3.chunk.js.map",
-    "runtime-main.js": "/fb-dd/static/js/runtime-main.a8620216.js",
-    "runtime-main.js.map": "/fb-dd/static/js/runtime-main.a8620216.js.map",
-    "static/js/2.8e1d0dbc.chunk.js": "/fb-dd/static/js/2.8e1d0dbc.chunk.js",
-    "static/js/2.8e1d0dbc.chunk.js.map": "/fb-dd/static/js/2.8e1d0dbc.chunk.js.map",
-    "index.html": "/fb-dd/index.html",
-    "precache-manifest.9e4f68d6150ace19f58ef9ff8f9f942e.js": "/fb-dd/precache-manifest.9e4f68d6150ace19f58ef9ff8f9f942e.js",
-    "service-worker.js": "/fb-dd/service-worker.js",
-    "static/css/main.1d36f2ef.chunk.css.map": "/fb-dd/static/css/main.1d36f2ef.chunk.css.map",
-    "static/js/2.8e1d0dbc.chunk.js.LICENSE.txt": "/fb-dd/static/js/2.8e1d0dbc.chunk.js.LICENSE.txt",
-    "static/media/arrow.48ae6434.svg": "/fb-dd/static/media/arrow.48ae6434.svg",
-    "static/media/bell.e9fd40a7.svg": "/fb-dd/static/media/bell.e9fd40a7.svg",
-    "static/media/caret.615e14d1.svg": "/fb-dd/static/media/caret.615e14d1.svg",
-    "static/media/chevron.efbb2bd6.svg": "/fb-dd/static/media/chevron.efbb2bd6.svg",
-    "static/media/cog.993f0cc0.svg": "/fb-dd/static/media/cog.993f0cc0.svg",
-    "static/media/messenger.9fdc8d67.svg": "/fb-dd/static/media/messenger.9fdc8d67.svg",
-    "static/media/plus.9311af2e.svg": "/fb-dd/static/media/plus.9311af2e.svg"
+    "main.css": "/fbDropdown/static/css/main.1d36f2ef.chunk.css",
+    "main.js": "/fbDropdown/static/js/main.cd7b8abb.chunk.js",
+    "main.js.map": "/fbDropdown/static/js/main.cd7b8abb.chunk.js.map",
+    "runtime-main.js": "/fbDropdown/static/js/runtime-main.3e04f92f.js",
+    "runtime-main.js.map": "/fbDropdown/static/js/runtime-main.3e04f92f.js.map",
+    "static/js/2.f0be0bb0.chunk.js": "/fbDropdown/static/js/2.f0be0bb0.chunk.js",
+    "static/js/2.f0be0bb0.chunk.js.map": "/fbDropdown/static/js/2.f0be0bb0.chunk.js.map",
+    "index.html": "/fbDropdown/index.html",
+    "precache-manifest.3b796152fc0232f939ceb922898c8a3d.js": "/fbDropdown/precache-manifest.3b796152fc0232f939ceb922898c8a3d.js",
+    "service-worker.js": "/fbDropdown/service-worker.js",
+    "static/css/main.1d36f2ef.chunk.css.map": "/fbDropdown/static/css/main.1d36f2ef.chunk.css.map",
+    "static/js/2.f0be0bb0.chunk.js.LICENSE.txt": "/fbDropdown/static/js/2.f0be0bb0.chunk.js.LICENSE.txt",
+    "static/media/arrow.48ae6434.svg": "/fbDropdown/static/media/arrow.48ae6434.svg",
+    "static/media/bell.e9fd40a7.svg": "/fbDropdown/static/media/bell.e9fd40a7.svg",
+    "static/media/caret.615e14d1.svg": "/fbDropdown/static/media/caret.615e14d1.svg",
+    "static/media/chevron.efbb2bd6.svg": "/fbDropdown/static/media/chevron.efbb2bd6.svg",
+    "static/media/cog.993f0cc0.svg": "/fbDropdown/static/media/cog.993f0cc0.svg",
+    "static/media/messenger.9fdc8d67.svg": "/fbDropdown/static/media/messenger.9fdc8d67.svg",
+    "static/media/plus.9311af2e.svg": "/fbDropdown/static/media/plus.9311af2e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8620216.js",
-    "static/js/2.8e1d0dbc.chunk.js",
+    "static/js/runtime-main.3e04f92f.js",
+    "static/js/2.f0be0bb0.chunk.js",
     "static/css/main.1d36f2ef.chunk.css",
-    "static/js/main.9ffe91d3.chunk.js"
+    "static/js/main.cd7b8abb.chunk.js"
   ]
 }
