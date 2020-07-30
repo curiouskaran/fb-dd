@@ -1,6 +1,6 @@
 {
-  "homepage": "https://curiouskaran.github.io/fb-dd",
-  "name": "fb-dd",
+  "homepage": "https://curiouskaran.github.io/fbDropdown",
+  "name": "fbDropdown",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
